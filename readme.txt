@@ -1,3 +1,6 @@
+This is a project from Data Structure Course in 2025.
+
+
 In this folder,it contains stock_tracker.py , test_stock_tracker.py , test_result.txt , 2100Report1.pdf.
 2100Report1.pdf is a report explaining the algorithm.
 stock_tracker.py contains all the operations required.
